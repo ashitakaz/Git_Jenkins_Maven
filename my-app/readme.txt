@@ -5,3 +5,4 @@ Again for the trigger test
 Trigger test #5
 Tigger again #6
 Trigger #7
+Trigger #8
